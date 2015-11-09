@@ -35,7 +35,7 @@ h1 {
 }
 
 .break {
-	text-align: center;
+	margin-left: 460px;
 	padding-top: 50px;
 }
 
@@ -68,12 +68,19 @@ footer {
 	margin-top: 100px;
 	padding-top: 15px;
 	padding-bottom: 0px;
-	padding-left: 200px;
+	/*padding-left: 200px;*/
 	font-weight: bold;
-	margin-left: 0px;
 }
 
-footer span {
+.second_break {
 	clear: both;
-	
+	padding-top: 25px;
+	margin-left: 465px;
+}
+
+.footer {
+	clear: both;
+	padding-top: 50px;
+	margin-right: 0px;
+	text-align: center;
 }
