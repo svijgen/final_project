@@ -84,3 +84,27 @@ footer {
 	margin-right: 0px;
 	text-align: center;
 }
+
+/* CSS for recipe_one.html*/
+
+.header_background {
+	background-image: url();
+	width: 960;
+	border: 1px solid black;
+	padding-top: 50px;
+	padding-bottom: 25px;
+}
+
+aside {
+	font-weight: 500;
+	font-size: 22px;
+	margin-top: 45px;
+	margin-left: 45px;
+	width: 240px;
+	border: 1px solid black;
+}
+
+.recipe {
+	clear: both;
+	width: ;
+}
