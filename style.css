@@ -70,6 +70,8 @@ footer {
 	padding-bottom: 0px;
 	/*padding-left: 200px;*/
 	font-weight: bold;
+	text-decoration: none;
+	color: #330000;
 }
 
 .second_break {
@@ -83,6 +85,7 @@ footer {
 	padding-top: 50px;
 	margin-right: 0px;
 	text-align: center;
+	color: #330000;
 }
 
 /* CSS for recipe_one.html*/
@@ -96,15 +99,88 @@ footer {
 }
 
 aside {
+	float: left;
 	font-weight: 500;
 	font-size: 22px;
 	margin-top: 45px;
-	margin-left: 45px;
-	width: 240px;
+	margin-left: 1px;
+	width: 200px;
 	border: 1px solid black;
 }
 
 .recipe {
-	clear: both;
-	width: ;
+	width: 700px;
+	border: 1px solid black;
+	color: #330000;
+	margin-left: 258px;
+	margin-top: 45px;
 }
+
+.recipe_name {
+	width: 700px;
+	border: 1px solid black;
+	font-size: 24px;
+	color: #330000;
+}
+
+.description_one {
+	width: 700px;
+	border: 1px solid black;
+	color: #330000;
+	font-style: italic;
+	font-size: 18px;
+}
+
+.picture_one {
+	width: 700px;
+	height: 375px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+.description_two {
+	width: 700px;
+	border: 1px solid black;
+	color: #330000;
+	font-style: italic;
+	font-size: 18px;
+}
+
+.picture_two {
+	width: 700px;
+	height: 375px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+.picture_three {
+	width: 700px;
+	height: 375px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+.recipe_pages {
+	clear: both;
+	margin-top: 50px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	/*padding-left: 200px;*/
+	font-weight: bold;
+	text-decoration: none;
+	color: #330000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
