@@ -55,11 +55,24 @@ h1 {
 	width: 175px;
 	height: 90px;
 	text-align: center;
-	padding-top: 75px;
+	padding-bottom: 75px;
 }
 
 .col: first-child {
 	margin-left: 0;
+}
+
+/*img {
+	height: 176px;
+	width: 176px;
+	margin-left: none;
+	margin-top: none;
+
+}*/
+
+img {
+	height: 300px;
+	width: 300px;
 }
 
 
